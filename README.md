@@ -17,6 +17,9 @@ If there is interest, I am happy to work on this more and make it a dedicated sc
 
 
 
+This version runs automatically when you load a webpage
+if you want to turn it off just pause it from the add-ons settings
+
 ## What is Bionic Reading?
 Bionic Reading is a new method facilitating the reading process by guiding the eyes through text with artficial fixation points.
 As a result, the reader is only focusing on the highlighted initial letters and lets the brain center complete the word.
